@@ -1,0 +1,2 @@
+后端采用node.js + express框架搭建构成
+数据库mysql文件在vpi_server文件夹的db文件夹内
